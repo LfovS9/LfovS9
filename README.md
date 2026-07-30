@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, this is Anson, a 3rd year Mechatronics student @ McMasterU 👋
 
 <!--
 **LfovS9/LfovS9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Currently Robotics System Engineer at Triple Automation & Software Member at McMaster Mars
+Rover Team, an interdisciplinary group that designs and builds a competitive Mars Rover for the Canadian International Rover Challenge (CIRC).
